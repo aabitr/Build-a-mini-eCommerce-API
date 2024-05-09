@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "Name": "Adidas",
+        "price": 500.99
+    },
+    {
+        "id": 2,
+        "Name": "Nike",
+        "price": 350.99
+    },
+    {
+        "id": 3,
+        "Name": "Woodland shoes",
+        "price": 1000.99
+    }
+]
